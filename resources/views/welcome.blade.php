@@ -74,7 +74,7 @@
     </header>
 
     <nav>
-        <a href="#">Home</a>
+        <a href="#">Dashboard</a>
         <a href="#">Kategori</a>
         <a href="#">Tentang</a>
     </nav>
